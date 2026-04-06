@@ -32,7 +32,7 @@ function CodeBlock({ inline, className, children, ...props }: any) {
     <div className="relative my-4">
       <button
         onClick={handleCopy}
-        className="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-xs px-1 py-1 rounded flex items-center gap-1"      >
+        className="absolute top-2 right-2 bg-gray-700 hover:bg-gray-600 text-xs px-1 py-1 rounded flex items-center gap-1 cursor-pointer"      >
         <Copy size={14} />
         {copied ? "Copied" : "Copy"}
       </button>
