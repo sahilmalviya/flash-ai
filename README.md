@@ -51,3 +51,17 @@ Setup Backend (FastAPI)
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+---
+
+## 📫 Contact
+- GitHub: sahilmalviya  
+- Email: sahilmalviya700@gmail.com
+
+---
+
+## 📌 About Me
+
+I enjoy building AI-based products, experimenting with new technologies, and creating useful web applications.
+
+---
