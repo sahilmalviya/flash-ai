@@ -37,8 +37,8 @@ FlashAI is a modern AI-powered chatbot web application that allows users to inte
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/flashai.git
-cd flashai
+git clone https://github.com/sahilmalviya/flash-ai.git
+cd flash-ai
 
 Install dependencies (Frontend - Next.js)
 
